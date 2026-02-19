@@ -1,18 +1,30 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FEDORA-ALIANSI-DIGITAL/.github/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/FEDORA-ALIANSI-DIGITAL/.github/main/banner.png" alt="FEDORA ALIANSI DIGITAL" />
 </p>
 
-![GitHub Org](https://img.shields.io/badge/Organization-FEDORA-blue)
-![Maintained](https://img.shields.io/badge/status-active-success)
-![Made in Indonesia](https://img.shields.io/badge/made%20in-Indonesia-red)
+<h1 align="center">FEDORA ALIANSI DIGITAL</h1>
 
-# FEDORA ALIANSI DIGITAL 🚀
+<p align="center">
+  <strong>Aliansi Engineer & Developer Indonesia</strong><br/>
+  Fokus pada infrastruktur jaringan, sistem autentikasi, dan web application
+</p>
 
-Aliansi pengembang & engineer yang fokus pada:
-- 🌐 Infrastruktur jaringan & ISP
-- 🔐 Sistem autentikasi & RADIUS
-- 🖥️ Web Application & Automation
-- ☁️ Cloud, VPS, dan DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Organization-FEDORA-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20in-Indonesia-red?style=flat-square" />
+</p>
+
+---
+
+## 🚀 Tentang Kami
+**FEDORA ALIANSI DIGITAL** adalah organisasi yang bergerak di bidang:
+- Infrastruktur jaringan & ISP
+- Sistem autentikasi & billing
+- Web application & automation
+- Server, VPS, dan DevOps
+
+Kami membangun sistem yang **stabil, scalable, dan production-ready**.
 
 ---
 
@@ -25,19 +37,26 @@ Aliansi pengembang & engineer yang fokus pada:
 
 ---
 
-## 📦 Repository Unggulan
-- **fedora-radius-web** – Sistem manajemen RADIUS berbasis web
-- **portal-app** – Portal client & admin
-- **infra-config** – Konfigurasi server & jaringan
+## 📦 Repository Utama
+- **fedora-radius-web**  
+  Sistem manajemen RADIUS berbasis web
+
+- **portal-client**  
+  Portal pelanggan & admin
+
+- **infra-config**  
+  Konfigurasi server & jaringan
 
 ---
 
-## 👥 Tim
-Dikembangkan oleh engineer Indonesia 🇮🇩  
-Terbuka untuk kolaborasi & kontribusi.
+## 🤝 Kolaborasi
+Kami terbuka untuk:
+- Kontribusi code
+- Diskusi teknis
+- Kolaborasi project
 
 ---
 
 ## 📫 Kontak
-📧 Email: admin@fedora.id  
-🌐 Website: https://fedora.id
+📧 Email: admin@fedoraweb.site 
+🌐 Website: https://fedoraweb.site
