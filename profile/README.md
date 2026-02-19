@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FEDORA-ALIANSI-DIGITAL/.github/main/banner.png" alt="FEDORA ALIANSI DIGITAL" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=220&section=header&text=FEDORA%20ALIANSI%20DIGITAL&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Network%20•%20Authentication%20•%20Web%20Infrastructure&descAlignY=65" />
 </p>
 
 <h1 align="center">FEDORA ALIANSI DIGITAL</h1>
