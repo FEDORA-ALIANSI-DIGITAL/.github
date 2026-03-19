@@ -50,32 +50,23 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 ### ⭐ Featured Projects
 *Arsitektur sistem skala industri yang telah kami kembangkan dan terapkan.*
 
-<p align="center">
-  <a href="https://github.com/fedora-aliansi-digital/fedora-radius-web">
-    <img src="https://img.shields.io/badge/FEDORA_RADIUS_WEB-1e293b?style=for-the-badge&logo=opsgenie&logoColor=white&color=005599" height="35" />
-  </a>
-  <a href="https://github.com/fedora-aliansi-digital/portal-client">
-    <img src="https://img.shields.io/badge/PORTAL_CLIENT_DASHBOARD-1e293b?style=for-the-badge&logo=nuxtdotjs&logoColor=white&color=8b5cf6" height="35" />
-  </a>
-</p>
-
 <table align="center" width="100%">
   <tr>
     <th width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Fedora Radius Web" height="50" /><br>
+      <img src="https://img.icons8.com/fluency/100/database.png" alt="Fedora Radius Web" height="70" /><br>
       <strong>Sistem Inti RADIUS</strong>
     </th>
     <th width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" alt="Portal Client Dashboard" height="50" /><br>
-      <strong>Dashboard Pelanggan</strong>
+      <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" alt="FIRA AI" height="70" /><br>
+      <strong>FIRA Assistance Intelligent</strong>
     </th>
   </tr>
   <tr>
     <td align="center">
-      <p>Manajemen autentikasi server yang stabil, aman, dan berkinerja tinggi untuk infrastruktur jaringan.</p>
+      <p>Manajemen autentikasi server yang stabil, aman, dan berkinerja tinggi untuk infrastruktur jaringan skala besar.</p>
     </td>
     <td align="center">
-      <p>Aplikasi dashboard interaktif khusus untuk kontrol administrator dan manajemen pengguna akhir.</p>
+      <p>Asisten cerdas berbasis AI untuk optimasi infrastruktur digital, analisis data, dan bantuan teknis otomatis.</p>
     </td>
   </tr>
   <tr>
@@ -85,9 +76,9 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
       <img src="https://img.shields.io/badge/MicroTik-EE0000?style=flat-square&logo=mikrotik&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/FIRA_Core-8b5cf6?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -97,8 +88,8 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/fedora-aliansi-digital/portal-client">
-        <img src="https://img.shields.io/badge/Lihat_Repositori-1e293b?style=flat-square&logo=github" />
+      <a href="https://ai.fedoraweb.site/">
+        <img src="https://img.shields.io/badge/Kunjungi_Situs-1e293b?style=flat-square&logo=googlechrome&logoColor=white" />
       </a>
     </td>
   </tr>
