@@ -48,22 +48,63 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 ---
 
 ### ⭐ Featured Projects
+*Arsitektur sistem skala industri yang telah kami kembangkan dan terapkan.*
+
+<p align="center">
+  <a href="https://github.com/fedora-aliansi-digital/fedora-radius-web">
+    <img src="https://img.shields.io/badge/FEDORA_RADIUS_WEB-1e293b?style=for-the-badge&logo=opsgenie&logoColor=white&color=005599" height="35" />
+  </a>
+  <a href="https://github.com/fedora-aliansi-digital/portal-client">
+    <img src="https://img.shields.io/badge/PORTAL_CLIENT_DASHBOARD-1e293b?style=for-the-badge&logo=nuxtdotjs&logoColor=white&color=8b5cf6" height="35" />
+  </a>
+</p>
+
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Core-RADIUS-005599?style=flat-square&logo=radius&logoColor=white" /><br/>
-      <strong>Fedora Radius Web</strong><br/>
-      <small>Sistem manajemen RADIUS server berbasis Web UI.</small><br/>
-      <a href="https://github.com/fedora-aliansi-digital/fedora-radius-web"><code>View Repo</code></a>
+    <th width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Fedora Radius Web" height="50" /><br>
+      <strong>Sistem Inti RADIUS</strong>
+    </th>
+    <th width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" alt="Portal Client Dashboard" height="50" /><br>
+      <strong>Dashboard Pelanggan</strong>
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Manajemen autentikasi server yang stabil, aman, dan berkinerja tinggi untuk infrastruktur jaringan.</p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Client-PORTAL-8b5cf6?style=flat-square&logo=nuxtdotjs&logoColor=white" /><br/>
-      <strong>Portal Client Dashboard</strong><br/>
-      <small>Dashboard interaktif manajemen pelanggan & admin.</small><br/>
-      <a href="https://github.com/fedora-aliansi-digital/portal-client"><code>View Repo</code></a>
+    <td align="center">
+      <p>Aplikasi dashboard interaktif khusus untuk kontrol administrator dan manajemen pengguna akhir.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/FreeRADIUS-005599?style=flat-square&logo=radius&logoColor=white" />
+      <img src="https://img.shields.io/badge/MicroTik-EE0000?style=flat-square&logo=mikrotik&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fedora-aliansi-digital/fedora-radius-web">
+        <img src="https://img.shields.io/badge/Lihat_Repositori-1e293b?style=flat-square&logo=github" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fedora-aliansi-digital/portal-client">
+        <img src="https://img.shields.io/badge/Lihat_Repositori-1e293b?style=flat-square&logo=github" />
+      </a>
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
