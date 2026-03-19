@@ -61,6 +61,30 @@ Keahlian lintas disiplin kami mencakup seluruh spektrum, dari perangkat keras ja
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/fedora-aliansi-digital?style=for-the-badge&logo=github&label=Followers&color=8b5cf6" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/fedora-aliansi-digital/fedora-radius-web?style=for-the-badge&logo=github&label=Radius%20Web%20Stars&color=3b82f6" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/fedora-aliansi-digital/fedora-radius-web?style=for-the-badge&logo=github&label=Last%20Update&color=8b5cf6" alt="Last Commit" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fedora-aliansi-digital&theme=dark" width="98%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fedora-aliansi-digital&theme=dark" width="49%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fedora-aliansi-digital&theme=dark" width="49%" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fedora-aliansi-digital&bg_color=0d1117&color=8b5cf6&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Enterprise%20Contribution%20Activity" width="98%" alt="Contribution Graph"/>
+</div>
+
+---
+
 ## ⭐ Featured Projects & Repositories
 
 <table align="center" width="100%">
