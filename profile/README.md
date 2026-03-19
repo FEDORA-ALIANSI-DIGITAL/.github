@@ -61,10 +61,6 @@ Keahlian lintas disiplin kami mencakup seluruh spektrum, dari perangkat keras ja
 
 ---
 
-
-
----
-
 ## ⭐ Featured Projects & Repositories
 
 <table align="center" width="100%">
