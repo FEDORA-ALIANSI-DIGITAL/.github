@@ -106,19 +106,36 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 
 ---
 
----
+<h2 align="center">🤝 Let's Build Something Great</h2>
 
-### 🤝 Connect With Us
 <p align="center">
-  <a href="mailto:admin@fedoraweb.site">
-    <img src="https://img.shields.io/badge/Email-admin@fedoraweb.site-2563eb?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
   <a href="https://fedoraweb.site">
-    <img src="https://img.shields.io/badge/Website-fedoraweb.site-047857?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web-fedoraweb.site-1e293b?style=for-the-badge&logo=googlechrome&logoColor=059669" alt="Website" />
+  </a>
+  <a href="mailto:admin@fedoraweb.site">
+    <img src="https://img.shields.io/badge/Email-admin@fedoraweb.site-1e293b?style=for-the-badge&logo=gmail&logoColor=2563eb" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Secure-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-3B82F6?style=flat-square" />
+  <a href="https://linkedin.com/in/YOUR_USER">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" />
+  </a>
+  <a href="https://instagram.com/YOUR_USER">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" />
+  </a>
+  <a href="https://github.com/fedora-aliansi-digital">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
+  </a>
 </p>
+
+<p align="center">
+  <code><b>HQ:</b> Bangka, Indonesia 🇮🇩</code> &nbsp;&bull;&nbsp; 
+  <code><b>Working_Hours:</b> 09:00 - 17:00 WIB</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Response_Time-⚡_Under_24h-3b82f6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Consultation-🟢_Available-22c55e?style=flat-square" />
+</p>
+
