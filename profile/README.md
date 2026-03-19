@@ -112,7 +112,7 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
   <a href="https://fedoraweb.site">
     <img src="https://img.shields.io/badge/Web-fedoraweb.site-1e293b?style=for-the-badge&logo=googlechrome&logoColor=059669" alt="Website" />
   </a>
-  <a href="mailto:admin@fedoraweb.site">
+  <a href="mailto:support@fedoraweb.site">
     <img src="https://img.shields.io/badge/Email-admin@fedoraweb.site-1e293b?style=for-the-badge&logo=gmail&logoColor=2563eb" alt="Email" />
   </a>
 </p>
@@ -130,7 +130,7 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 </p>
 
 <p align="center">
-  <code><b>HQ:</b> Bangka, Indonesia 🇮🇩</code> &nbsp;&bull;&nbsp; 
+  <code><b>HQ:</b> Jakarta, Indonesia 🇮🇩</code> &nbsp;&bull;&nbsp; 
   <code><b>Working_Hours:</b> 09:00 - 17:00 WIB</code>
 </p>
 
