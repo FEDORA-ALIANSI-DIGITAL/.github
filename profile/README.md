@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,70:8b5cf6,100:0f172a&height=220&section=header&text=FEDORA%20ALIANSI%20DIGITAL&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Solidarity%20For%20Digital%20Infrastructures&descAlignY=65" width="100%" />
 </p>
@@ -16,8 +17,6 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 ---
 
 ### 🌐 High-Performance Infrastructure
-*Fondasi utama kami dalam pengelolaan akses dan keamanan jaringan.*
-
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/MikroTik-RouterOS-EE0000?style=for-the-badge&logo=mikrotik&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FreeRADIUS-Secure_Auth-005599?style=for-the-badge&logo=radius&logoColor=white" /></a>
@@ -28,25 +27,28 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 ---
 
 ### ⚙️ Development Matrix
-*Arsenal teknologi kami untuk membangun sistem yang scalable dan maintainable.*
-
-#### 🚀 Languages & Frameworks
 | Category | Stack Tools |
 | :--- | :--- |
 | **Core Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,golang,rust,cpp,php,bash" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,svelte,astro,tailwind,threejs" /> |
 | **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,postgres,mongodb,redis,prisma,supabase" /> |
-
-#### ☁️ DevOps & Environment
-| Category | Stack Tools |
-| :--- | :--- |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,ansible,terraform,githubactions,cloudflare,prometheus" /> |
-| **System & Tools** | <img src="https://skillicons.dev/icons?i=arch,ubuntu,neovim,git,figma,postman,discord,vscode" /> |
+| **DevOps & Env** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,ansible,terraform,githubactions,cloudflare,arch" /> |
 
 ---
 
-### ⭐ Featured Projects
 
+
+
+### 📊 Organization Repository Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedora-aliansi-digital&repo=fedora-radius-web&theme=tokyonight&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedora-aliansi-digital&repo=portal-client&theme=tokyonight&show_owner=true" />
+</p>
+
+---
+---
+
+### ⭐ Featured Projects
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -79,5 +81,4 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 <p align="center">
   <img src="https://img.shields.io/badge/System-Secure-10B981?style=flat-square" />
   <img src="https://img.shields.io/badge/Uptime-99.9%25-3B82F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Engineered_by-Fedora_Aliansi-70:8b5cf6?style=flat-square" />
 </p>
