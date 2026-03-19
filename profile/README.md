@@ -46,7 +46,6 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 </p>
 
 ---
----
 
 ### ⭐ Featured Projects
 <table align="center" width="100%">
