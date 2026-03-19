@@ -94,20 +94,23 @@ Keahlian lintas disiplin kami mencakup seluruh spektrum, dari perangkat keras ja
 
 ---
 
-## 🤝 Hubungi & Kolaborasi
+<h2 align="center">🤝 Connect With Our Team</h2>
 
-Kami terbuka untuk diskusi teknis, kerja sama proyek, atau kolaborasi strategis bagi perusahaan dan *WISP* yang membutuhkan keahlian kami.
+<p align="center" style="color: #94a3b8;">
+  Tertarik untuk berkolaborasi, diskusi arsitektur sistem, atau membutuhkan solusi infrastruktur untuk bisnis Anda?
+</p>
 
 <p align="center">
   <a href="mailto:admin@fedoraweb.site">
-    <img src="https://img.shields.io/badge/Contact_Us-Send_Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fedora" />
+    <img src="https://img.shields.io/badge/Email-admin@fedoraweb.site-1e293b?style=for-the-badge&logo=minutemailer&logoColor=white&color=2563eb" alt="Email" />
   </a>
   <a href="https://fedoraweb.site">
-    <img src="https://img.shields.io/badge/Visit_Site-fedoraweb.site-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website Fedora" />
+    <img src="https://img.shields.io/badge/Website-fedoraweb.site-1e293b?style=for-the-badge&logo=googlechrome&logoColor=white&color=047857" alt="Website" />
   </a>
 </p>
 
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,70:8b5cf6,100:0f172a&height=100&section=footer" width="100%" />
-</p>
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/System-Secure-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-3B82F6?style=flat-square" />
+</div>
