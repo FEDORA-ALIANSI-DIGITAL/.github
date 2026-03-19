@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=220&section=header&text=FEDORA%20ALIANSI%20DIGITAL&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Solidarity%20For%20Digital%20Infrastructures&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,70:8b5cf6,100:0f172a&height=220&section=header&text=FEDORA%20ALIANSI%20DIGITAL&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Engineering%20Solidarity%20For%20Digital%20Infrastructures&descAlignY=65" width="100%" />
 </p>
 
 ## 💡 Visi & Misi Perusahaan
@@ -9,9 +9,9 @@ Selamat datang di profil resmi **FEDORA ALIANSI DIGITAL**. Kami adalah konsorsiu
 Kami berspesialisasi dalam mengintegrasikan infrastruktur jaringan berkinerja tinggi, sistem autentikasi terpusat, dan arsitektur aplikasi web modern yang stabil, aman, dan *production-ready*. Layanan kami ditujukan untuk mendukung skalabilitas bisnis mitra kami di era digital.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Organization-FEDORA%20ALIANSI-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Operating-166534?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Region-Indonesia-991b1b?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Organization-FEDORA%20ALIANSI-3b82f6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Operating-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Region-Indonesia-ef4444?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
@@ -24,10 +24,10 @@ Keahlian lintas disiplin kami mencakup seluruh spektrum, dari perangkat keras ja
 *Solusi inti kami untuk pengelolaan akses dan autentikasi.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MikroTik-RouterOS-27272a?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/FreeRADIUS-Secure_Auth-27272a?style=for-the-badge&logo=radius&logoColor=white" alt="FreeRADIUS" />
-  <img src="https://img.shields.io/badge/WireGuard-VPN_Protocol-27272a?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
-  <img src="https://img.shields.io/badge/Cisco-Network_Solutions-27272a?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/MikroTik-RouterOS-EE0000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/FreeRADIUS-Secure_Auth-005599?style=for-the-badge&logo=radius&logoColor=white" alt="FreeRADIUS" />
+  <img src="https://img.shields.io/badge/WireGuard-VPN_Protocol-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Cisco-Network_Solutions-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 <br>
 
@@ -65,21 +65,27 @@ Keahlian lintas disiplin kami mencakup seluruh spektrum, dari perangkat keras ja
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Fedora Radius Web</h3>
-      <p align="center">Sistem inti manajemen RADIUS server berbasis antarmuka web yang stabil dan cepat.</p>
+    <td width="50%" style="border-right: 2px solid #8b5cf6;">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/Core-RADIUS-005599?style=flat-square&logo=radius&logoColor=white" />
+        <br>Fedora Radius Web
+      </h3>
+      <p align="center">Sistem inti manajemen RADIUS server berbasis antarmuka web yang stabil, aman, dan berkinerja tinggi.</p>
       <p align="center">
         <a href="https://github.com/fedora-aliansi-digital/fedora-radius-web">
-          <img src="https://img.shields.io/badge/Repository-Private%20/%20Public-1e293b?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+          <img src="https://img.shields.io/badge/Access-Private_/%20Public-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🖥️ Portal Client Dashboard</h3>
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/Client-PORTAL-8b5cf6?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+        <br>Portal Client Dashboard
+      </h3>
       <p align="center">Aplikasi dashboard interaktif khusus untuk manajemen pelanggan dan kontrol administrator.</p>
       <p align="center">
         <a href="https://github.com/fedora-aliansi-digital/portal-client">
-          <img src="https://img.shields.io/badge/Repository-Private%20/%20Public-1e293b?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+          <img src="https://img.shields.io/badge/Access-Private_/%20Public-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </p>
     </td>
@@ -94,7 +100,7 @@ Kami terbuka untuk diskusi teknis, kerja sama proyek, atau kolaborasi strategis 
 
 <p align="center">
   <a href="mailto:admin@fedoraweb.site">
-    <img src="https://img.shields.io/badge/Contact_Us-Send_Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fedora" />
+    <img src="https://img.shields.io/badge/Contact_Us-Send_Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fedora" />
   </a>
   <a href="https://fedoraweb.site">
     <img src="https://img.shields.io/badge/Visit_Site-fedoraweb.site-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website Fedora" />
@@ -103,5 +109,5 @@ Kami terbuka untuk diskusi teknis, kerja sama proyek, atau kolaborasi strategis 
 
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,70:8b5cf6,100:0f172a&height=100&section=footer" width="100%" />
 </p>
