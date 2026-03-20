@@ -26,11 +26,22 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 
 ---
 
-### 📊 Organization Engineering Metrics
-*Data real-time (Public & Private) yang di-generate otomatis via GitHub Actions.*
+## 📊 Analytics (Public & Private)
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/FEDORA-ALIANSI-DIGITAL?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/FEDORA-ALIANSI-DIGITAL?style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/FEDORA-ALIANSI-DIGITAL/.github?style=for-the-badge&logo=github&label=System%20Update&color=0ea5e9" alt="Last Commit" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FEDORA-ALIANSI-DIGITAL/.github/main/github-metrics.svg" width="100%" alt="FEDORA Private Metrics Dashboard" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FEDORA-ALIANSI-DIGITAL/.github/main/github-metrics.svg" width="100%" />
+  <i>💡 Statistik di atas mencakup repositori internal dan publik yang di-update setiap jam.</i>
 </p>
 
 ---
