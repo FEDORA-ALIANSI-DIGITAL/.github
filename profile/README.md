@@ -26,6 +26,23 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 
 ---
 
+### 📊 Organization Engineering Metrics
+*Data real-time (Public & Private) yang di-generate otomatis via GitHub Actions.*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FEDORA-ALIANSI-DIGITAL/.github/main/github-metrics.svg" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/System-Operational-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engineered_by-Fedora_Aliansi-70:8b5cf6?style=flat-square" />
+</div>
+
+---
+
 ### ⚙️ Development Matrix
 | Category | Stack Tools |
 | :--- | :--- |
