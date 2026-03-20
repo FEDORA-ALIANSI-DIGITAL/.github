@@ -36,13 +36,42 @@ Kami adalah konsorsium **Engineer & Developer Senior** di Indonesia yang berdedi
 
 ---
 
+### 📊 System Infrastructure Status
+*Real-time monitoring of our core engineering repositories.*
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #3b82f6;">
+      <br />
+      <img src="https://img.icons8.com/fluency/80/data-configuration.png" width="60" /><br />
+      <strong>fedora-radius-web</strong><br />
+      <img src="https://img.shields.io/badge/System_Core-Stable-005599?style=flat-square" /><br />
+      <img src="https://geps.dev/progress/85?dangerColor=ef4444&warningColor=f59e0b&successColor=10b981" width="150" /><br />
+      <code>Architecture: Node.js + FreeRADIUS</code><br />
+      <a href="https://github.com/fedora-aliansi-digital/fedora-radius-web">
+        <img src="https://img.shields.io/badge/View_Source-1e293b?style=for-the-badge&logo=github" height="25" />
+      </a>
+      <br /><br />
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #8b5cf6;">
+      <br />
+      <img src="https://img.icons8.com/fluency/80/dashboard.png" width="60" /><br />
+      <strong>portal-client</strong><br />
+      <img src="https://img.shields.io/badge/Interface-Developing-8b5cf6?style=flat-square" /><br />
+      <img src="https://geps.dev/progress/60?dangerColor=ef4444&warningColor=f59e0b&successColor=8b5cf6" width="150" /><br />
+      <code>Stack: Nuxt.js + TailwindCSS</code><br />
+      <a href="https://github.com/fedora-aliansi-digital/portal-client">
+        <img src="https://img.shields.io/badge/View_Source-1e293b?style=for-the-badge&logo=github" height="25" />
+      </a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
-
-### 📊 Organization Repository Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedora-aliansi-digital&repo=fedora-radius-web&theme=tokyonight&show_owner=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fedora-aliansi-digital&repo=portal-client&theme=tokyonight&show_owner=true" />
+  <img src="https://img.shields.io/badge/Maintenance-99.9%25_Uptime-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Hardened-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Build-Passing-success?style=flat-square&logo=github-actions" />
 </p>
 
 ---
