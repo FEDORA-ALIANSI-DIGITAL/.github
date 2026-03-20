@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Kunci rahasia yang kamu taruh di Settings > Secrets > Actions
-          token: ${{ METRICS_TOKEN_FEDORA }} 
+          token: ${{ secrets.METRICS_TOKEN_FEDORA }} 
           
           # Target organisasi kamu
           user: FEDORA-ALIANSI-DIGITAL
