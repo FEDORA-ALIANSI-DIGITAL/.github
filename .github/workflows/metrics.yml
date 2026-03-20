@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}]
-  workflow_dispatch:
+  schedule: [{cron: "0 * * * *"}] # Update otomatis setiap jam
+  workflow_dispatch: # Bisa dijalankan manual
   push: {branches: ["main", "master"]}
 jobs:
   github-metrics:
@@ -11,22 +11,29 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # Kunci utama buat baca repo private
+          # Kunci rahasia yang kamu taruh di Settings > Secrets > Actions
+          token: ${{ secrets.METRICS_TOKEN }} 
+          
+          # Target organisasi kamu
           user: FEDORA-ALIANSI-DIGITAL
           template: classic
           base: header, repositories, metadata
           config_timezone: Asia/Jakarta
           
-          # Setup agar mirip dengan 'Summary Cards'
+          # --- PLUGIN BAHASA ---
           plugin_languages: yes
-          plugin_languages_type: byte-size
+          plugin_languages_ignored: html, css # Opsional: abaikan bahasa dekorasi
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          plugin_languages_limit: 8
           
-          # Setup grafik aktivitas (Ganti Activity Graph)
+          # --- PLUGIN KOTAK KONTRIBUSI (Isocalendar) ---
+          # Ini yang bikin tampilan kayak screenshot yang kamu mau
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Tampilkan 6 bulan terakhir
+          
+          # --- PLUGIN AKTIVITAS & GARIS ---
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14
-          
-          # Setup Line Chart (Garis Commit)
           plugin_lines: yes
+          plugin_followup: yes
